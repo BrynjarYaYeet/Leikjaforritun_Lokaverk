@@ -1,6 +1,6 @@
-<h2>Tækniskólinn í Reykjavík \n
-Tölvubraut \n
-Brynjar Daði Gíslason og Sigursteinn Óli Þorsteinsson</h2>
+<h2>Tækniskólinn í Reykjavík </h2>
+<h2>Tölvubraut </h2>
+<h2>Brynjar Daði Gíslason og Sigursteinn Óli Þorsteinsson</h2>
 
 
 --- Lýsing Leiks og Stýring-----
