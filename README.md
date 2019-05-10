@@ -1,5 +1,5 @@
-<h2>Tækniskólinn í Reykjavík
-Tölvubraut
+<h2>Tækniskólinn í Reykjavík \n
+Tölvubraut \n
 Brynjar Daði Gíslason og Sigursteinn Óli Þorsteinsson</h2>
 
 
