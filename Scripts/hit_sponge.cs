@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// meira og minna það sama og í hitninja
+
+
 public class hit_sponge : MonoBehaviour
 {
     public int Health;
