@@ -24,5 +24,9 @@ Stýring leikmans 2:
 
             Í byrjun var Brynjar að vinna í player movement og Sigursteinn í animation
             Síðan þegar lengra var komið og allt sett saman unnum við saman að rest.
+            
+
+# https://www.youtube.com/watch?v=r4s3zaClGyI&feature=youtu.be&hd=1
+# https://brynjaryayeet.github.io/Leikur-2D/
   
   
