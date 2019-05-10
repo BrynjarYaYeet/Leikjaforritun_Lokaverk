@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Þetta script heldur utan um Health hjá "Ninjuni" 
+// Bara basic float breyta
+// Síðan tengjum við scriptuna við Healthbar animationið til þess að sýna fyrir spilaranum að hann er að tapa health
+// (Healthbarinn er bara animation)
+
 public class HealthBarNinja : MonoBehaviour
 {
     public Animator HealthBarAnimator;
