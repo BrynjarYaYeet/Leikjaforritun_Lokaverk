@@ -31,6 +31,7 @@ public class ri : MonoBehaviour
 
     void Update()
     {
+    // til þess að koma í veg fyrir að spilarinn gæti "flogið" þá getur hann bara hoppað ef hann er að snerta jörðina
         if (Input.GetKeyDown(KeyCode.UpArrow) && isGrounded)  //makes player jump
         {
             rb.AddForce(jumpHeight, ForceMode2D.Impulse);
